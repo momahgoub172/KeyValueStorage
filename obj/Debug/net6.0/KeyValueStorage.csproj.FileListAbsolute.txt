@@ -1,0 +1,15 @@
+C:\Users\GoBa\RiderProjects\KeyValueStorage\obj\Debug\net6.0\KeyValueStorage.csproj.AssemblyReference.cache
+C:\Users\GoBa\RiderProjects\KeyValueStorage\obj\Debug\net6.0\KeyValueStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GoBa\RiderProjects\KeyValueStorage\obj\Debug\net6.0\KeyValueStorage.AssemblyInfoInputs.cache
+C:\Users\GoBa\RiderProjects\KeyValueStorage\obj\Debug\net6.0\KeyValueStorage.AssemblyInfo.cs
+C:\Users\GoBa\RiderProjects\KeyValueStorage\obj\Debug\net6.0\KeyValueStorage.csproj.CoreCompileInputs.cache
+C:\Users\GoBa\RiderProjects\KeyValueStorage\bin\Debug\net6.0\KeyValueStorage.exe
+C:\Users\GoBa\RiderProjects\KeyValueStorage\bin\Debug\net6.0\KeyValueStorage.deps.json
+C:\Users\GoBa\RiderProjects\KeyValueStorage\bin\Debug\net6.0\KeyValueStorage.runtimeconfig.json
+C:\Users\GoBa\RiderProjects\KeyValueStorage\bin\Debug\net6.0\KeyValueStorage.dll
+C:\Users\GoBa\RiderProjects\KeyValueStorage\bin\Debug\net6.0\ref\KeyValueStorage.dll
+C:\Users\GoBa\RiderProjects\KeyValueStorage\bin\Debug\net6.0\KeyValueStorage.pdb
+C:\Users\GoBa\RiderProjects\KeyValueStorage\obj\Debug\net6.0\KeyValueStorage.dll
+C:\Users\GoBa\RiderProjects\KeyValueStorage\obj\Debug\net6.0\ref\KeyValueStorage.dll
+C:\Users\GoBa\RiderProjects\KeyValueStorage\obj\Debug\net6.0\KeyValueStorage.pdb
+C:\Users\GoBa\RiderProjects\KeyValueStorage\obj\Debug\net6.0\KeyValueStorage.genruntimeconfig.cache
